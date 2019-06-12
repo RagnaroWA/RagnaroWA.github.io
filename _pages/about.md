@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zecheng Zhang"
+title: "My Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
